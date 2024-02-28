@@ -8,7 +8,7 @@ The quiz questions are genereated using ChatGPT-4. Following the the prompt give
 *I am a professor teaching a course on Harry Potter. The course is spanned over 12 weeks. I want to give my students quizzes every week to continuously monitor their learning. The quizzes can be descriptive or multiple choice questions. Help me make a quiz for the first 3 weeks of my course. Each of the quiz should consist of 10 questions.*
 
 **Generated Response**
-[Follow link to view the chat](https://chat.openai.com/share/1127d320-b2e5-4373-ba44-5798ebc813d7) *(ChatGPT-4 subscription required to view the conversation)*
+[Follow link to view the chat](https://chat.openai.com/share/1127d320-b2e5-4373-ba44-5798ebc813d7)
 
 ## Generation of Student Response as sample
 
@@ -24,4 +24,4 @@ Note: GPT generated pretty good answers and didnt really give weight to the fact
 `
 
 **Generated Response**
-[Follow link to view the chat](https://chat.openai.com/share/766d1eea-4022-49de-9a14-bc52f2ceabcc) *(ChatGPT-4 subscription required to view the conversation)*
+[Follow link to view the chat](https://chat.openai.com/share/766d1eea-4022-49de-9a14-bc52f2ceabcc)
